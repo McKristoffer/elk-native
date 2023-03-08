@@ -1,5 +1,20 @@
 # Changelog
 
+## \[0.5.0]
+
+- Update elk to v0.7.5. This version adds Data Saving mode, basic keyboard shortcut support, and numerous bugfixes.
+  - [b0a9483](https://github.com/elk-zone/elk-native/commit/b0a9483afaaf789147ab77d2571e4f276ac291f8) update elk to v0.6.0 ([#40](https://github.com/elk-zone/elk-native/pull/40)) on 2023-01-19
+  - [e458335](https://github.com/elk-zone/elk-native/commit/e4583357c1274338069184e7d1e4ebea76f4f3f5) \[create-pull-request] automated change ([#39](https://github.com/elk-zone/elk-native/pull/39)) on 2023-01-19
+  - [27c7a11](https://github.com/elk-zone/elk-native/commit/27c7a11e019062838630de8d81dbe07fd3964a78) Elk v0.6.1 ([#47](https://github.com/elk-zone/elk-native/pull/47)) on 2023-01-20
+  - [da72e54](https://github.com/elk-zone/elk-native/commit/da72e54d7da87aed12da2412f96edf1966beadb4) \[create-pull-request] automated change ([#48](https://github.com/elk-zone/elk-native/pull/48)) on 2023-01-20
+  - [295ba3c](https://github.com/elk-zone/elk-native/commit/295ba3c41844ce2354186f6add3876e98e2adc25) Elk v0.6.2 ([#60](https://github.com/elk-zone/elk-native/pull/60)) on 2023-01-24
+  - [9f416cc](https://github.com/elk-zone/elk-native/commit/9f416cc8ca7be1f229ef483c826e853f22b8867b) \[create-pull-request] automated change ([#56](https://github.com/elk-zone/elk-native/pull/56)) on 2023-01-24
+  - [3db979e](https://github.com/elk-zone/elk-native/commit/3db979e1355c9670148bf51956821f6ea19cd3f8) feat: update elk to v0.7.0 ([#67](https://github.com/elk-zone/elk-native/pull/67)) on 2023-02-03
+  - [038369e](https://github.com/elk-zone/elk-native/commit/038369ec29f95074616722da373128e50619e0f7) feat: update elk to v0.7.4 on 2023-02-13
+  - [1766592](https://github.com/elk-zone/elk-native/commit/1766592ae72ea210c5d1c77ffb649abe34b5925f) update elk to v0.7.4 on 2023-02-19
+  - [ea86017](https://github.com/elk-zone/elk-native/commit/ea860177845f007c43473d0a0765bec5b25b0cb2) Merge branch 'main' into main on 2023-02-19
+  - [7f78445](https://github.com/elk-zone/elk-native/commit/7f78445209d16f399886520c11f8a5415a3ac609) Update elk to v0.7.5 on 2023-03-08
+
 ## \[0.4.0]
 
 - Added menu items to open Privacy Policy and License.
